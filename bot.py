@@ -1,8 +1,8 @@
 # This is a simple echo bot using the decorator mechanism.
 # It echoes any incoming text messages.
 
-print "Python Bot By Lulzx"
-print "Kosgu Bot has been started."
+print ("Python Bot By Lulzx")
+print ("Kosgu Bot has been started.")
 
 import telebot
 

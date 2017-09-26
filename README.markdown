@@ -22,6 +22,8 @@ put Your Token There
 For Starting Bot Do
 ```bash 
 python bot.py
+
+[Deploy](https://heroku.com/Deploy)
 ```
 
 #ArashEmp

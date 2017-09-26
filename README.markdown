@@ -19,12 +19,11 @@ API_TOKEN = "<YourToken>"
 ```
 put Your Token There
 
-For Starting Bot Do
-```bash 
+For Starting Bot 
 python bot.py
 
 [Deploy](https://heroku.com/Deploy)
-```
+
 
 #ArashEmp
 

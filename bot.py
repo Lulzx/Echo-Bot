@@ -13,12 +13,12 @@ bot = telebot.TeleBot(API_TOKEN)
 # Handle '/start' and '/help'
 @bot.message_handler(commands=['help', 'start'])
 def send_welcome(message):
-    bot.reply_to(message, """\Fuck off! 😒\
+    bot.reply_to(message, """Fuck off! 😒\
 """)
 
 @bot.message_handler(commands=['credits', 'about'])
 def send_welcome(message):
-    bot.reply_to(message, """\Fuck off! 😒\
+    bot.reply_to(message, """Fuck off! 😒\
 """)
 
 
